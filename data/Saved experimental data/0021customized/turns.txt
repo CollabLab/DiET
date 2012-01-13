@@ -1,0 +1,21 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+snthaoeu|stnh|Default|0|1060|1060|6|stnh|really?|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|0|1060|1060|6|stnh|really?||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|3516|5800|2284|4|aoeu|that's cool|, stnh|OK|1|1|0|1|0|
+aoeusnth|aoeu|NOTRELAYED|3516|5800|2284|4|aoeu|that's cool||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|7678|11798|4120|2|aoeu|that's cool.|, stnh|OK|1|1|0|1|0|
+aoeusnth|aoeu|NOTRELAYED|7678|11798|4120|2|aoeu|that's cool.||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|2860|48267|45407|0|stnh|it is.|, aoeu|OK|2|2|0|2|0|
+snthaoeu|stnh|NOTRELAYED|2860|48267|45407|0|stnh|it is.||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|51924|52900|976|6|stnh|really|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|51924|52900|976|6|stnh|really||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|53410|54178|768|9|stnh|really.|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|53410|54178|768|9|stnh|really.||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|56355|58419|2064|3|stnh|really. |, aoeu|OK|1|1|0|1|0|
+snthaoeu|stnh|NOTRELAYED|56355|58419|2064|3|stnh|really. ||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|61591|62776|1185|0|stnh||, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|61591|62776|1185|0|stnh|||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|109979|111171|1192|3|stnh|yup.|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|109979|111171|1192|3|stnh|yup.||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|120059|130146|10087|0|stnh||, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|120059|130146|10087|0|stnh|||OK|0|0|0|0|0|

@@ -1,0 +1,12 @@
+java.lang.NullPointerException
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:34)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.NullPointerException
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:34)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.NullPointerException
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:34)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.NullPointerException
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:34)
+	at diet.server.Conversation.run(Conversation.java:339)

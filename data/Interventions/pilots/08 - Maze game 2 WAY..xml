@@ -1,0 +1,24 @@
+STRING|Experiment ID|Maze game experiment - analogous to the maze game of Garrod et al.|Maze game 2 WAY|Maze game 2 WAY|
+STRINGFIXED|Conversation Controller|Pre-installed intervention templates. There are some interdependencies that place restrictions on the values of other parameters.|CCMAZEGAME2WAYNORMAL|null|No intervention|Split Utterance with parse|Frag CR of nouns|WYSIWYG Disfluency|WYSIWYG Intercept & Disfluency|
+STRING|Experiment Data Folder|Folder where data from experiment is stored|c:\testdirectory\Saved experimental data|c:\testdirectory\Saved experimental data|
+STRING|TaskController|Task played|Maze2|Maze2|
+STRING|WordnNet folder location|Location of folder containing WordNet libraries|C:\DiET\Server.\utils|C:\DiET\Server.\utils|
+INT|Number of participants per conversation|Determines when an experiment can proceed and also determines how many chat windows to display when run locally|2|2|
+STRINGFIXED|Chat tool interface|The different kinds of chat tool.  "Formulate revise then send" is the default, tpyical of most messenger apps. It allows single and multiple windows. WYSIWYG Simplex single window displays turns character-by-character and strictly enforces turn-taking.  WYSIWYG Duplex multiple windows displays turns character-by-character with each participant's contributions placed in separate windows. It is similar to UNIX chat|Formulate revise then send. Single or multiple windows|null|Formulate revise then send. Single or multiple windows|WYSIWYG Simplex single window|WYSIWYG Duplex multiple windows|
+INT|Number of windows per chat tool|Three participants. The server parses each turn, looking for turns containing relative clauses. Suitable turns are split in two at the clause boundary. The first half is relayed normally to the other participants. The second half is also relayed normally to one participant. The other participant sees this second half as originating from the other.|1|1|
+STRINGFIXED|Window numbering policy|This determines which window each participant sees their own and each other's contributions|ONEWINDOWENABLED|null|ONEWINDOWENABLED|ONEWINDOWDISABLED|EACHOWNWINDOWATTOPENABLED|EACHOWNWINDOWATTOPDISABLED|EACHOWNWINDOWRANDOMENABLED|EACHOWNWINDOWRANDOMDISABLED|
+STRINGFIXED|Horizontal or vertical alignment of multiple windows||Vertical|null|Horizontal|Vertical|
+INT|Number of rows in chat window||6|6|
+INT|Number of rows in chat text entry area||2|2|
+INT|Number of columns in chat window||40|40|
+STRINGFIXED|Display parse tree||no|no|yes|no|
+INT|Parser Timeout||1000|500|
+INT|Parser Max Length (chars)||70|70|
+STRINGFIXED|Transcript parser enabled||Disabled|null|Enabled|Disabled|
+INT|Transcript parser timeout||500|500|
+INT|Typing status timeout (msecs)||1000|1000|
+INT|Turns till Next intervention||0|0|
+INT|Turns between interventions||0|10|
+INT|Min inter-turn delay||600|250|
+INT|Max inter-turn delay||800|600|
+INT|Avg typing time per char||150|20|

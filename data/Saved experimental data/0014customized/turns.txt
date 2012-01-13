@@ -1,0 +1,1 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText

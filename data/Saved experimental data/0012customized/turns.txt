@@ -1,0 +1,23 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+aoeusnth|snthaoeu|Default|0|381|381|7|snthaoeu|hey|, aoeusnth|OK|0|0|0|0|0|
+aoeusnth|snthaoeu|NOTRELAYED|0|381|381|7|snthaoeu|hey||OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|Default|4038|4974|936|6|aoeusnth|great!|, snthaoeu|OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|NOTRELAYED|4038|4974|936|6|aoeusnth|great!||OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|Default|9479|11839|2360|9|aoeusnth|ok, that's kinda funny.|, snthaoeu|OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|NOTRELAYED|9479|11839|2360|9|aoeusnth|ok, that's kinda funny.||OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|Default|23269|24069|800|7|aoeusnth|great!|, snthaoeu|OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|NOTRELAYED|23269|24069|800|7|aoeusnth|great!||OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|Default|27384|54935|27551|2|aoeusnth|I'm gonna make it look like you're not paynig attention :|, snthaoeu|OK|3|3|0|3|0|
+aoeusnthe|aoeusnth|NOTRELAYED|27384|54935|27551|2|aoeusnth|I'm gonna make it look like you're not paynig attention :||OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|Default|60100|61228|1128|0|aoeusnth||, snthaoeu|OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|NOTRELAYED|60100|61228|1128|0|aoeusnth|||OK|0|0|0|0|0|
+aoeusnth|snthaoeu|Default|71993|77793|5800|7|snthaoeu|in order to make it look like I'm not nice,|, aoeusnth|OK|1|1|0|1|0|
+aoeusnth|snthaoeu|NOTRELAYED|71993|77793|5800|7|snthaoeu|in order to make it look like I'm not nice,||OK|0|0|0|0|0|
+aoeusnth|snthaoeu|Default|78190|85302|7112|4|snthaoeu|I'm going to type really slowly|, aoeusnth|OK|7|7|0|7|0|
+aoeusnth|snthaoeu|NOTRELAYED|78190|85302|7112|4|snthaoeu|I'm going to type really slowly||OK|0|0|0|0|0|
+aoeusnth|snthaoeu|Default|85930|92122|6192|4|snthaoeu|then cut out all emoticons |, aoeusnth|OK|0|0|0|0|0|
+aoeusnth|snthaoeu|NOTRELAYED|85930|92122|6192|4|snthaoeu|then cut out all emoticons ||OK|0|0|0|0|0|
+aoeusnth|snthaoeu|Default|117256|118000|744|17|snthaoeu|sntaoheutaohu|, aoeusnth|OK|0|0|0|0|0|
+aoeusnth|snthaoeu|NOTRELAYED|117256|118000|744|17|snthaoeu|sntaoheutaohu||OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|Default|67203|126673|59470|0|aoeusnth|blaoeuh|, snthaoeu|OK|0|0|0|0|0|
+aoeusnthe|aoeusnth|NOTRELAYED|67203|126673|59470|0|aoeusnth|blaoeuh||OK|0|0|0|0|0|

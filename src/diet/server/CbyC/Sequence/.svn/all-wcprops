@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/server/CbyC/Sequence
+END
+MazeGameDummyBlockingOnTextEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/239/src/diet/server/CbyC/Sequence/MazeGameDummyBlockingOnTextEntry.java
+END
+SplitUttBufferedTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/274/src/diet/server/CbyC/Sequence/SplitUttBufferedTarget.java
+END
+LimitedRecipientsSequenceWithSpoofTypingResponsivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/dietsourcecode/!svn/ver/244/src/diet/server/CbyC/Sequence/LimitedRecipientsSequenceWithSpoofTypingResponsivity.java
+END
+MazeGameCapturesSequenceWaitingForTypingLull.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/dietsourcecode/!svn/ver/272/src/diet/server/CbyC/Sequence/MazeGameCapturesSequenceWaitingForTypingLull.java
+END
+MazeGameBufferedSynonymReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/server/CbyC/Sequence/MazeGameBufferedSynonymReplacement.java
+END
+LimitedRecipientsSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/193/src/diet/server/CbyC/Sequence/LimitedRecipientsSequence.java
+END
+RecordedSequenceFromApparentOrigin.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dietsourcecode/!svn/ver/256/src/diet/server/CbyC/Sequence/RecordedSequenceFromApparentOrigin.java
+END
+BufferedSequenceWithSpoofTypingResponsivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/dietsourcecode/!svn/ver/263/src/diet/server/CbyC/Sequence/BufferedSequenceWithSpoofTypingResponsivity.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/244/src/diet/server/CbyC/Sequence/Sequence.java
+END
+SplitUttContiguousByTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/server/CbyC/Sequence/SplitUttContiguousByTarget.java
+END
+MazeGameAcknowledgement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/266/src/diet/server/CbyC/Sequence/MazeGameAcknowledgement.java
+END
+EditSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/CbyC/Sequence/EditSequence.java
+END
+SplitUttBufferedTargetContiguous.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/274/src/diet/server/CbyC/Sequence/SplitUttBufferedTargetContiguous.java
+END
+MazeGameDefaultSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/239/src/diet/server/CbyC/Sequence/MazeGameDefaultSequence.java
+END
+MazeGameEditSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/CbyC/Sequence/MazeGameEditSequence.java
+END
+MazeGameBufferedTypoReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/server/CbyC/Sequence/MazeGameBufferedTypoReplacement.java
+END
+MazeGameClarificationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/239/src/diet/server/CbyC/Sequence/MazeGameClarificationRequest.java
+END
+SplitUttRandomNoise.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/52/src/diet/server/CbyC/Sequence/SplitUttRandomNoise.java
+END
+SplitUtt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/server/CbyC/Sequence/SplitUtt.java
+END
+MazeGameBuffered.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/server/CbyC/Sequence/MazeGameBuffered.java
+END
+POSTagFilterSequenceNonTriggering.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dietsourcecode/!svn/ver/242/src/diet/server/CbyC/Sequence/POSTagFilterSequenceNonTriggering.java
+END
+SequencePlaysPrerecordedSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/server/CbyC/Sequence/SequencePlaysPrerecordedSequence.java
+END
+POSTagFilterSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/280/src/diet/server/CbyC/Sequence/POSTagFilterSequence.java
+END
+POSTagFilterSequenceBufferedAfterMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dietsourcecode/!svn/ver/280/src/diet/server/CbyC/Sequence/POSTagFilterSequenceBufferedAfterMatch.java
+END

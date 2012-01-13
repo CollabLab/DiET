@@ -1,0 +1,15 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+snthaoeu|snth|Default|0|482|482|8|snth|aoeu|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|0|482|482|8|snth|aoeu||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|2093|3053|960|4|aoeu|yuup|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|2093|3053|960|4|aoeu|yuup||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|3683|4667|984|4|aoeu|cool|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|3683|4667|984|4|aoeu|cool||OK|0|0|0|0|0|
+snthaoeu|snth|Default|1461|9457|7996|0|snth|:)|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|1461|9457|7996|0|snth|:)||OK|0|0|0|0|0|
+snthaoeu|snth|Default|11873|15240|3367|6|snth|that's not that fun :)|, aoeu|OK|3|3|0|3|0|
+snthaoeu|snth|NOTRELAYED|11873|15240|3367|6|snth|that's not that fun :)||OK|0|0|0|0|0|
+snthaoeu|snth|Default|20523|27920|7397|0|snth|really?|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|20523|27920|7397|0|snth|really?||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|6196|31959|25763|0|aoeu|yes|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|6196|31959|25763|0|aoeu|yes||OK|0|0|0|0|0|

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/mazegame/message
+END
+MessageChangeGateStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/mazegame/message/MessageChangeGateStatus.java
+END
+MessageStartMaze.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/task/mazegame/message/MessageStartMaze.java
+END
+MessageNextMaze.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/mazegame/message/MessageNextMaze.java
+END
+MessageCursorUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/mazegame/message/MessageCursorUpdate.java
+END
+MessageNewMazeGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/mazegame/message/MessageNewMazeGame.java
+END
+MessageStartGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/mazegame/message/MessageStartGame.java
+END

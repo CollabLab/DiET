@@ -1,0 +1,11 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+snthaoeu|snth|Default|0|362|362|8|snth|hey|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|0|362|362|8|snth|hey||OK|0|0|0|0|0|
+snthaoeu|snth|Default|997|2189|1192|4|snth|yeah.|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|997|2189|1192|4|snth|yeah.||OK|0|0|0|0|0|
+snthaoeu|snth|Default|3840|6544|2704|8|snth|that's great. what now?|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|3840|6544|2704|8|snth|that's great. what now?||OK|0|0|0|0|0|
+snthaoeu|snth|Default|12719|17750|5031|2|snth|but != true?.|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|12719|17750|5031|2|snth|but != true?.||OK|0|0|0|0|0|
+snthaoeu|snth|Default|45653|50069|4416|4|snth|I think so. but why.|, aoeu|OK|1|1|0|1|0|
+snthaoeu|snth|NOTRELAYED|45653|50069|4416|4|snth|I think so. but why.||OK|0|0|0|0|0|

@@ -1,0 +1,42 @@
+stnhaoeu|stnh|Keypressed|1326396450555|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396450556|| |
+stnhaoeu|stnh|Keypressed|1326396450556|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396450556|| |
+stnhaoeu|stnh|Keypressed|1326396450605|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396450605|| |
+stnhaoeu|stnh|Keypressed|1326396450662|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396450662|| |
+stnhaoeu|stnh|Keypressed|1326396451474|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396451475|| |
+stnhaoeu|stnh|Keypressed|1326396451641|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396451642|| |
+stnhaoeu|stnh|Keypressed|1326396451642|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396451643|| |
+stnhaoeu|stnh|Keypressed|1326396451652|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396451652|| |
+stnhaoeu|stnh|Keypressed|1326396451653|| |
+stnhaoeu|stnh|Keypressed|1326396451656|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396451657|| |
+stnhaoeu|stnh|Keypressed|1326396451670|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396451670|| |
+stnhaoeu|stnh|ChatTextFromClient|1326396451910|1326396450420|1326396451910|anything?|
+stnhaoeu|stnh|Keypressed|1326396456490|| |
+stnhaoeu|stnh|Keypressed|1326396456578|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396456579|| |
+stnhaoeu|stnh|Keypressed|1326396456776|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396456777|| |
+stnhaoeu|stnh|Keypressed|1326396457147|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396457148|| |
+stnhaoeu|stnh|ChatTextFromClient|1326396457285|1326396456492|1326396457285|:)|
+stnhaoeu|stnh|Keypressed|1326396458681|| |
+stnhaoeu|stnh|Keypressed|1326396458779|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396458780|| |
+stnhaoeu|stnh|Keypressed|1326396458857|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396458858|| |
+stnhaoeu|stnh|Keypressed|1326396459145|| |
+stnhaoeu|stnh|Keypressed|1326396459241|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396459242|| |
+stnhaoeu|stnh|Keypressed|1326396459537|| |
+stnhaoeu|stnh|WYSIWYGDocSyncFromClient|1326396459538|| |
+stnhaoeu|stnh|ChatTextFromClient|1326396459658|1326396458685|1326396459658||
+stnhaoeu|stnh|Keypressed|1326396461401|| |

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/dietsourcecode/!svn/ver/191/src/diet/utils/treekernel
+END
+TreeKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dietsourcecode/!svn/ver/148/src/diet/utils/treekernel/TreeKernel.java
+END
+PotentialFrags.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/treekernel/PotentialFrags.java
+END
+Fragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/177/src/diet/utils/treekernel/Fragment.java
+END
+FragmentIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/treekernel/FragmentIdentifier.java
+END
+ParserWrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/treekernel/ParserWrap.java
+END
+Production.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dietsourcecode/!svn/ver/112/src/diet/utils/treekernel/Production.java
+END
+LexicalSimilarityCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/treekernel/LexicalSimilarityCalc.java
+END
+NegativeFragmentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/treekernel/NegativeFragmentFilter.java
+END
+PositiveFragmentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/18/src/diet/utils/treekernel/PositiveFragmentFilter.java
+END
+FragmentIdentifierThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/treekernel/FragmentIdentifierThread.java
+END
+ProductionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/111/src/diet/utils/treekernel/ProductionComparator.java
+END

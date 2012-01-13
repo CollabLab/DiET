@@ -1,0 +1,34 @@
+<html>
+<body>
+<h3>The moon survival task</h3>
+<p>
+You are a member of a space crew originally scheduled to dock with the mothership on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to crash 200 miles from the meeting point. During reentry and landing, much of the equipment was damaged and, because survival depends on reaching the mothership, the most critical items must be chosen for the 200 mile trip. </p>
+<p>You and your partner are looking through the storage compartments of the crashed spaceship. For each storage compartment you need to work out how important the objects are for survival. 
+</p>
+
+<p>
+Because the lighting is bad, you can only see some of the objects in the compartment. Your partner can see the other objects.</p>
+<p>
+You need to rank ALL the objects in order of their importance for your survival (most important first).</p>
+
+<p>To select an item, type a "slash", followed by the name of the object, and then press ENTER/RETURN. For example, if there are two objects, object1 and object2, and object1 is more important, do the following:
+</p>
+
+<CENTER><h3><B>/object1</B></h3></CENTER>
+<CENTER>followed by</CENTER>
+<CENTER><h3><B>/object2</B></h3></CENTER>
+<p>When you have chosen the correct ordering, you must move to the next compartment by typing the command
+<CENTER><h3><B>/next</B></h3><br></CENTER>
+</p>
+
+You can start again and delete the list by typing:
+
+<B>/restart</B>
+
+
+IMPORTANT: You see the effects of your partner's actions. Your partner sees the effects of your actions.
+
+</body>
+</html>
+
+

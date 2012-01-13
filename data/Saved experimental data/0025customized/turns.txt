@@ -1,0 +1,19 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+snthaoeu|stnh|Default|0|1409|1409|2|stnh|yes.|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|0|1409|1409|2|stnh|yes.||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|2705|5710|3005|4|aoeu|are you sure?|, stnh|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|2705|5710|3005|4|aoeu|are you sure?||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|7418|10881|3463|2|stnh|yup. I am |, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|7418|10881|3463|2|stnh|yup. I am ||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|27791|28922|1131|0|stnh|.|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|27791|28922|1131|0|stnh|.||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|6405|210507|204102|0|aoeu||, stnh|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|6405|210507|204102|0|aoeu|||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|214127|215262|1135|2|aoeu|:-o|, stnh|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|214127|215262|1135|2|aoeu|:-o||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|218062|218659|597|3|aoeu|:o|, stnh|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|218062|218659|597|3|aoeu|:o||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|220088|220722|634|4|aoeu|:-o|, stnh|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|220088|220722|634|4|aoeu|:-o||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|221111|265009|43898|0|aoeu|http/w|, stnh|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|221111|265009|43898|0|aoeu|http/w||OK|0|0|0|0|0|

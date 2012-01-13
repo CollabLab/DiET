@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/parameters
+END
+Fixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/Fixed.java
+END
+BooleanParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/parameters/BooleanParameter.java
+END
+LongParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/parameters/LongParameter.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/Parameter.java
+END
+ExperimentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/parameters/ExperimentSettings.java
+END
+LongParameterDeprecated.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/LongParameterDeprecated.java
+END
+ParameterEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ParameterEvent.java
+END
+StringListParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dietsourcecode/!svn/ver/154/src/diet/parameters/StringListParameter.java
+END
+StringParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/StringParameter.java
+END
+StringParameterFixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dietsourcecode/!svn/ver/187/src/diet/parameters/StringParameterFixed.java
+END
+ParameterEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ParameterEventListener.java
+END
+ParameterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ParameterFactory.java
+END
+IntParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/IntParameter.java
+END
+DefaultSettingsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/DefaultSettingsFactory.java
+END

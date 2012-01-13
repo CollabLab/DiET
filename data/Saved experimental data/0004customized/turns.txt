@@ -1,0 +1,13 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+abcdef|noah|Default|0|866|866|10|noah|bwahahaha|, noah2|OK|0|0|0|0|0|
+abcdef|noah|NOTRELAYED|0|866|866|10|noah|bwahahaha||OK|0|0|0|0|0|
+ghijkl|noah2|Default|-474|6712|7186|1|noah2|bwahahaha|, noah|OK|0|0|0|0|0|
+ghijkl|noah2|NOTRELAYED|-474|6712|7186|1|noah2|bwahahaha||OK|0|0|0|0|0|
+abcdef|noah|Default|2095|33599|31504|0|noah|bwahahaha|, noah2|OK|0|0|0|0|0|
+abcdef|noah|NOTRELAYED|2095|33599|31504|0|noah|bwahahaha||OK|0|0|0|0|0|
+ghijkl|noah2|Default|11801|37489|25688|0|noah2|bwahahaha|, noah|OK|0|0|0|0|0|
+ghijkl|noah2|NOTRELAYED|11801|37489|25688|0|noah2|bwahahaha||OK|0|0|0|0|0|
+ghijkl|noah2|Default|48412|52285|3873|2|noah2|bwahahaha|, noah|OK|0|0|0|0|0|
+ghijkl|noah2|NOTRELAYED|48412|52285|3873|2|noah2|bwahahaha||OK|0|0|0|0|0|
+ghijkl|noah2|Default|2312500|2313788|1288|6|noah2|bwahahaha|, noah|OK|0|0|0|0|0|
+ghijkl|noah2|NOTRELAYED|2312500|2313788|1288|6|noah2|bwahahaha||OK|0|0|0|0|0|

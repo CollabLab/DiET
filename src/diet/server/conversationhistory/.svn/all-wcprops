@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/310/src/diet/server/conversationhistory
+END
+ParserDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ParserDemo.java
+END
+Conversant.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/Conversant.java
+END
+LexiconEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/LexiconEntry.java
+END
+PartOfSpeechLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/PartOfSpeechLexicon.java
+END
+TurnAlignmentScores.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/TurnAlignmentScores.java
+END
+WordPartOfSpeechOccurrenceCounterSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/WordPartOfSpeechOccurrenceCounterSender.java
+END
+WordPartOfSpeechOccurrenceCounterRecipient.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/WordPartOfSpeechOccurrenceCounterRecipient.java
+END
+ConversationHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/310/src/diet/server/conversationhistory/ConversationHistory.java
+END

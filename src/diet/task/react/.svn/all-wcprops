@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react
+END
+MessageChangeColourOfWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageChangeColourOfWord.java
+END
+MessageChangeColourOfButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageChangeColourOfButton.java
+END
+MoveONLYSecondHalf.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/MoveONLYSecondHalf.java
+END
+MessageNewReactTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageNewReactTask.java
+END
+MessageMouseEntryFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageMouseEntryFromClient.java
+END
+MessageChangeButtonSetToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageChangeButtonSetToClient.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/Move.java
+END
+MessageDisplayMessageOnReactTaskWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageDisplayMessageOnReactTaskWindow.java
+END
+JReactTaskFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/JReactTaskFrame.java
+END
+MoveONLY.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/MoveONLY.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/Game.java
+END
+MoveONLYFirstHalf.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/MoveONLYFirstHalf.java
+END
+SetBR.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SetBR.java
+END
+MessageChangeColourOfButtonXY.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/MessageChangeColourOfButtonXY.java
+END
+ClientTaskReactEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/ClientTaskReactEventHandler.java
+END
+MessageMouseReleaseFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/MessageMouseReleaseFromClient.java
+END
+ReactTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/ReactTaskController.java
+END
+SelectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SelectionState.java
+END
+SetCustom.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SetCustom.java
+END
+MoveAND.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/MoveAND.java
+END
+Rules.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/task/react/Rules.java
+END
+Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/Set.java
+END
+SetA.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SetA.java
+END
+SetAReversed.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SetAReversed.java
+END
+SetRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SetRandom.java
+END
+MessageMousePressFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/MessageMousePressFromClient.java
+END
+SetB.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/task/react/SetB.java
+END

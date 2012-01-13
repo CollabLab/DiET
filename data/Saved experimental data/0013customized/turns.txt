@@ -1,0 +1,9 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+staoeus|alice|Default|0|781|781|3|alice|hey|, bobby|OK|0|0|0|0|0|
+staoeus|alice|NOTRELAYED|0|781|781|3|alice|hey||OK|0|0|0|0|0|
+sntaoheu|bobby|Default|3403|4107|704|4|bobby|yo.|, alice|OK|0|0|0|0|0|
+sntaoheu|bobby|NOTRELAYED|3403|4107|704|4|bobby|yo.||OK|0|0|0|0|0|
+staoeus|alice|Default|1441|12089|10648|1|alice|good to see you |, bobby|OK|2|2|0|2|0|
+staoeus|alice|NOTRELAYED|1441|12089|10648|1|alice|good to see you ||OK|0|0|0|0|0|
+sntaoheu|bobby|Default|15356|18830|3474|2|bobby|fo sho!|, alice|OK|0|0|0|0|0|
+sntaoheu|bobby|NOTRELAYED|15356|18830|3474|2|bobby|fo sho!||OK|0|0|0|0|0|

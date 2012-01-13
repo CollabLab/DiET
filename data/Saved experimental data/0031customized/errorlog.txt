@@ -1,0 +1,14 @@
+java.util.regex.PatternSyntaxException: Unclosed group near index 20
+(?<=(\s|^)):-(($|\s)
+                    ^
+	at java.util.regex.Pattern.error(Pattern.java:1713)
+	at java.util.regex.Pattern.accept(Pattern.java:1571)
+	at java.util.regex.Pattern.group0(Pattern.java:2533)
+	at java.util.regex.Pattern.sequence(Pattern.java:1806)
+	at java.util.regex.Pattern.expr(Pattern.java:1752)
+	at java.util.regex.Pattern.compile(Pattern.java:1460)
+	at java.util.regex.Pattern.<init>(Pattern.java:1133)
+	at java.util.regex.Pattern.compile(Pattern.java:823)
+	at java.lang.String.replaceAll(String.java:2189)
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:51)
+	at diet.server.Conversation.run(Conversation.java:339)

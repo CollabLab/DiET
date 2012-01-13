@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/dietsourcecode/!svn/ver/305/src/diet/message
+END
+MessageDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dietsourcecode/!svn/ver/266/src/diet/message/MessageDummy.java
+END
+MessageClientSetupParametersCBYCOneWindowKeypressIntercepted.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/message/MessageClientSetupParametersCBYCOneWindowKeypressIntercepted.java
+END
+MessageWYSIWYGTypingUnhinderedRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGTypingUnhinderedRequest.java
+END
+MessageWYSIWYGChangeCursorIsVisibleAndTextSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageWYSIWYGChangeCursorIsVisibleAndTextSelection.java
+END
+MessageClientSetupSuccessful.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupSuccessful.java
+END
+MessageClientSetupParametersWithSendButtonAndTextEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupParametersWithSendButtonAndTextEntry.java
+END
+MessageWYSIWYGTextSelectionToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGTextSelectionToClient.java
+END
+Keypress.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/Keypress.java
+END
+MessageCBYCChangeTurntakingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/message/MessageCBYCChangeTurntakingStatus.java
+END
+MessagePopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dietsourcecode/!svn/ver/302/src/diet/message/MessagePopup.java
+END
+MessageChatTextFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/message/MessageChatTextFromClient.java
+END
+MessagePopupClientLogonUsernameRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/266/src/diet/message/MessagePopupClientLogonUsernameRequest.java
+END
+MessageErrorFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageErrorFromClient.java
+END
+MessageKeypressed.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageKeypressed.java
+END
+MessageCBYCDocChangeToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageCBYCDocChangeToClient.java
+END
+MessageClientSetupParametersWithinTurn.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupParametersWithinTurn.java
+END
+MessageClientSetupParametersWithSendButtonAndTextEntryOneTurnAtATime.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupParametersWithSendButtonAndTextEntryOneTurnAtATime.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/message/Message.java
+END
+MessageCBYCChangeTurntakingStatusConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/236/src/diet/message/MessageCBYCChangeTurntakingStatusConfirm.java
+END
+MessageWYSIWYGTextSelectionFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGTextSelectionFromClient.java
+END
+MessageChangeClientInterfaceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/message/MessageChangeClientInterfaceProperties.java
+END
+MessageClientSetupParametersWYSIWYG.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupParametersWYSIWYG.java
+END
+MessageWithinTurnDocumentSyncFromClientReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnDocumentSyncFromClientReplace.java
+END
+MessageWithinTurnDocumentSyncToClientRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnDocumentSyncToClientRemove.java
+END
+MessageClientSetupParameterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dietsourcecode/!svn/ver/305/src/diet/message/MessageClientSetupParameterFactory.java
+END
+MessageWithinTurnTextSelectionToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnTextSelectionToClient.java
+END
+MessageCBYCTypingUnhinderedRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageCBYCTypingUnhinderedRequest.java
+END
+MessageClientCloseDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageClientCloseDown.java
+END
+MessageClientSetupParametersWYSIWYGOneWindowKeypressIntercepted.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupParametersWYSIWYGOneWindowKeypressIntercepted.java
+END
+MessageWYSIWYGDocumentSyncToClientRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGDocumentSyncToClientRemove.java
+END
+MessageWithinTurnDocumentSyncToClientInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnDocumentSyncToClientInsert.java
+END
+MessageDisplayChangeJProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/279/src/diet/message/MessageDisplayChangeJProgressBar.java
+END
+MessageCBYCDocChangeFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageCBYCDocChangeFromClient.java
+END
+MessageInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageInfoGenerator.java
+END
+MessageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageTask.java
+END
+MessageWYSIWYGChangeTurntakingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGChangeTurntakingStatus.java
+END
+MessageWYSIWYGDocumentSyncToClientInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGDocumentSyncToClientInsert.java
+END
+MessageWithinTurnDocumentSyncToClientReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnDocumentSyncToClientReplace.java
+END
+MessageDisplayChangeWebpage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dietsourcecode/!svn/ver/266/src/diet/message/MessageDisplayChangeWebpage.java
+END
+MessageWithinTurnDocumentSyncFromClientRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnDocumentSyncFromClientRemove.java
+END
+MessageStatusLabelDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageStatusLabelDisplay.java
+END
+MessageWithinTurnTextSelectionFromClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnTextSelectionFromClient.java
+END
+MessageDisplayNEWWebpage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dietsourcecode/!svn/ver/299/src/diet/message/MessageDisplayNEWWebpage.java
+END
+MessageClientLogon.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageClientLogon.java
+END
+MessageWYSIWYGDocumentSyncFromClientRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWYSIWYGDocumentSyncFromClientRemove.java
+END
+MessageWithinTurnDocumentSyncFromClientInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageWithinTurnDocumentSyncFromClientInsert.java
+END
+MessageClientSetupParametersWYSIWYGOneWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageClientSetupParametersWYSIWYGOneWindow.java
+END
+MessageStatusLabelDisplayAndBlocked.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageStatusLabelDisplayAndBlocked.java
+END
+MessagePopupClientLogonEmailRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/dietsourcecode/!svn/ver/27/src/diet/message/MessagePopupClientLogonEmailRequest.java
+END
+MessageDisplayCloseWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageDisplayCloseWindow.java
+END
+MessageClientSetupParametersWithSendButtonAndTextEntryWidthByHeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/message/MessageClientSetupParametersWithSendButtonAndTextEntryWidthByHeight.java
+END
+MessageClientSetupParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/message/MessageClientSetupParameters.java
+END
+MessageChatTextToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dietsourcecode/!svn/ver/290/src/diet/message/MessageChatTextToClient.java
+END
+MessageWYSIWYGDocumentSyncFromClientInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/message/MessageWYSIWYGDocumentSyncFromClientInsert.java
+END
+MessageMazeGameCursorUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/message/MessageMazeGameCursorUpdate.java
+END

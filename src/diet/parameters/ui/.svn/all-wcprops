@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/parameters/ui
+END
+JExperimentParameterCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/JExperimentParameterCellEditor.java
+END
+JExperimentParameterTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/JExperimentParameterTable.java
+END
+JExperimentSetParameterButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/JExperimentSetParameterButton.java
+END
+ParameterUIFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/ParameterUIFactory.java
+END
+JExperimentParametersTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/parameters/ui/JExperimentParametersTableModel.java
+END
+JExperimentParametersFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/JExperimentParametersFrame.java
+END
+JListEditorWithSingleSelectionOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/JListEditorWithSingleSelectionOption.java
+END
+JExperimentParameterTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/JExperimentParameterTableCellRenderer.java
+END
+SavedExperimentsAndSettingsFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/SavedExperimentsAndSettingsFile.java
+END
+JListEditorWithSingleSelectionOption.form
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/parameters/ui/JListEditorWithSingleSelectionOption.form
+END
+ParameterUITesting.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/parameters/ui/ParameterUITesting.java
+END

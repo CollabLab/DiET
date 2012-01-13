@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dietsourcecode/!svn/ver/299/src/diet/server/experimentmanager
+END
+EMUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/266/src/diet/server/experimentmanager/EMUI.java
+END
+JGeneralSetupTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JGeneralSetupTableModel.java
+END
+JParameterSetupTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JParameterSetupTableModel.java
+END
+FileSystemTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/FileSystemTree.java
+END
+FileTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/server/experimentmanager/FileTreeNode.java
+END
+JExperimentTurnsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JExperimentTurnsPanel.java
+END
+JFileChooserTreeNodeBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JFileChooserTreeNodeBrowser.java
+END
+JLeftTabbedPanelCloseButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JLeftTabbedPanelCloseButton.java
+END
+JOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JOutput.java
+END
+FileSystemModelDefaultTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/FileSystemModelDefaultTreeModel.java
+END
+EMStarterApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/299/src/diet/server/experimentmanager/EMStarterApplet.java
+END
+JOutputPanels.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JOutputPanels.java
+END
+FileTreeNodeAndRevisedDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/server/experimentmanager/FileTreeNodeAndRevisedDataProvider.java
+END
+FileSystemTreeSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/FileSystemTreeSelectionListener.java
+END
+TableModelSetValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/server/experimentmanager/TableModelSetValue.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/MenuItem.java
+END
+MenuBarHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/MenuBarHandler.java
+END
+JParameterSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JParameterSetupPanel.java
+END
+FileSystemTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/FileSystemTreeRenderer.java
+END
+JExperimentMessagesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JExperimentMessagesPanel.java
+END
+JExperimentManagerMainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JExperimentManagerMainFrame.java
+END
+EMStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dietsourcecode/!svn/ver/299/src/diet/server/experimentmanager/EMStarter.java
+END
+JFileSystemPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JFileSystemPopupMenu.java
+END
+JTemplateAndSetupRightTabbedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JTemplateAndSetupRightTabbedPanel.java
+END
+JParameterSetupTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JParameterSetupTableCellRenderer.java
+END
+FileSystemTreeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/FileSystemTreeEditor.java
+END
+TableAndTextAreaChangeNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/server/experimentmanager/TableAndTextAreaChangeNotifier.java
+END
+TitledTabWithFontSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/TitledTabWithFontSettings.java
+END
+JParameterSetupTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JParameterSetupTable.java
+END
+FileSystemTreeMouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/FileSystemTreeMouseListener.java
+END
+JLeftTabbedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JLeftTabbedPanel.java
+END
+JGeneralSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JGeneralSetupPanel.java
+END
+SplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/SplashScreen.java
+END
+JParameterSetupTableCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/experimentmanager/JParameterSetupTableCellEditor.java
+END

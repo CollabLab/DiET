@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/server/conversationhistory/turn
+END
+MAZEGAMETURN.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/289/src/diet/server/conversationhistory/turn/MAZEGAMETURN.java
+END
+TurnMazeGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/289/src/diet/server/conversationhistory/turn/TurnMazeGame.java
+END
+CBYCMAZEGAMETURN.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/289/src/diet/server/conversationhistory/turn/CBYCMAZEGAMETURN.java
+END
+DataToBeSaved.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/server/conversationhistory/turn/DataToBeSaved.java
+END
+ContiguousTurn.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/turn/ContiguousTurn.java
+END
+Turn.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/server/conversationhistory/turn/Turn.java
+END
+CBYCTURN.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/289/src/diet/server/conversationhistory/turn/CBYCTURN.java
+END

@@ -1,0 +1,5 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+aoesunth|aoeu|Default|0|442|442|6|aoeu|hey|, snth|OK|0|0|0|0|0|
+aoesunth|aoeu|NOTRELAYED|0|442|442|6|aoeu|hey||OK|0|0|0|0|0|
+aoesunth|aoeu|Default|2240|3864|1624|3|aoeu|great!|, snth|OK|1|1|0|1|0|
+aoesunth|aoeu|NOTRELAYED|2240|3864|1624|3|aoeu|great!||OK|0|0|0|0|0|

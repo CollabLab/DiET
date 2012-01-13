@@ -1,0 +1,13 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+stnhaeu|snth|Default|0|384|384|5|snth|hi|, aoeu|OK|0|0|0|0|0|
+stnhaeu|snth|NOTRELAYED|0|384|384|5|snth|hi||OK|0|0|0|0|0|
+stnhaeu|snth|Default|1077|1677|600|8|snth|hello|, aoeu|OK|0|0|0|0|0|
+stnhaeu|snth|NOTRELAYED|1077|1677|600|8|snth|hello||OK|0|0|0|0|0|
+stnhaeu|snth|Default|2534|3158|624|8|snth|right|, aoeu|OK|0|0|0|0|0|
+stnhaeu|snth|NOTRELAYED|2534|3158|624|8|snth|right||OK|0|0|0|0|0|
+stnhaeu|snth|Default|3884|4172|288|6|snth|ok|, aoeu|OK|0|0|0|0|0|
+stnhaeu|snth|NOTRELAYED|3884|4172|288|6|snth|ok||OK|0|0|0|0|0|
+stnhaeu|snth|Default|5224|7336|2112|6|snth|that's hi cool|, aoeu|OK|0|0|0|0|0|
+stnhaeu|snth|NOTRELAYED|5224|7336|2112|6|snth|that's hi cool||OK|0|0|0|0|0|
+stnhaeu|snth|Default|12246|17726|5480|2|snth|it's hi cool, hi|, aoeu|OK|0|0|0|0|0|
+stnhaeu|snth|NOTRELAYED|12246|17726|5480|2|snth|it's hi cool, hi||OK|0|0|0|0|0|

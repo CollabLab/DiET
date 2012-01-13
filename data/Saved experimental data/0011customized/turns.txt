@@ -1,0 +1,7 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+aosenuth|aoeu|Default|0|873|873|4|aoeu|hey!|, snth|OK|0|0|0|0|0|
+aosenuth|aoeu|NOTRELAYED|0|873|873|4|aoeu|hey!||OK|0|0|0|0|0|
+snthaoeu|snth|Default|2446|4159|1713|2|snth|nice |, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|2446|4159|1713|2|snth|nice ||OK|0|0|0|0|0|
+aosenuth|aoeu|Default|6799|8255|1456|3|aoeu|woot |, snth|OK|0|0|0|0|0|
+aosenuth|aoeu|NOTRELAYED|6799|8255|1456|3|aoeu|woot ||OK|0|0|0|0|0|

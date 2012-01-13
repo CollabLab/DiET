@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/dietsourcecode/!svn/ver/196/utils
+END
+CNTLIST
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/CNTLIST
+END
+VERB.IDX
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/VERB.IDX
+END
+ADV.DAT
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/ADV.DAT
+END
+INDEX.SENSE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dietsourcecode/!svn/ver/2/utils/INDEX.SENSE
+END
+SENTS.VRB
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/SENTS.VRB
+END
+NOUN.DAT
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/NOUN.DAT
+END
+SENSE.IDX
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/SENSE.IDX
+END
+INDEX.ADJ
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/INDEX.ADJ
+END
+VERB.DAT
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/VERB.DAT
+END
+COUSIN.TPS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dietsourcecode/!svn/ver/2/utils/COUSIN.TPS
+END
+SENTIDX.VRB
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dietsourcecode/!svn/ver/2/utils/SENTIDX.VRB
+END
+DATA.ADJ
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/DATA.ADJ
+END
+LEXNAMES
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/LEXNAMES
+END
+ADJ.EXC
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/ADJ.EXC
+END
+bidirectional-distsim-wsj-0-18.tagger
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/182/utils/bidirectional-distsim-wsj-0-18.tagger
+END
+INDEX.ADV
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/INDEX.ADV
+END
+ADJ.IDX
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/ADJ.IDX
+END
+DATA.ADV
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/DATA.ADV
+END
+INDEX.NOUN
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dietsourcecode/!svn/ver/2/utils/INDEX.NOUN
+END
+DATA.NOUN
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/DATA.NOUN
+END
+ADV.EXC
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/ADV.EXC
+END
+STOPLIST.PL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dietsourcecode/!svn/ver/2/utils/STOPLIST.PL
+END
+NOUN.EXC
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/NOUN.EXC
+END
+INDEX.GLOSS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dietsourcecode/!svn/ver/2/utils/INDEX.GLOSS
+END
+ADV.IDX
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/ADV.IDX
+END
+englishPCFG.ser.gz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/dietsourcecode/!svn/ver/182/utils/englishPCFG.ser.gz
+END
+NOUN.IDX
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/NOUN.IDX
+END
+left3words-distsim-wsj-0-18.tagger
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dietsourcecode/!svn/ver/182/utils/left3words-distsim-wsj-0-18.tagger
+END
+INDEX.VERB
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dietsourcecode/!svn/ver/2/utils/INDEX.VERB
+END
+ADJ.DAT
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/dietsourcecode/!svn/ver/2/utils/ADJ.DAT
+END
+DATA.VERB
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/DATA.VERB
+END
+fulldictionary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/dietsourcecode/!svn/ver/196/utils/fulldictionary.txt
+END
+GLOSS.IDX
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/dietsourcecode/!svn/ver/2/utils/GLOSS.IDX
+END
+VERB.EXC
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/dietsourcecode/!svn/ver/2/utils/VERB.EXC
+END
+COUSIN.EXC
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dietsourcecode/!svn/ver/2/utils/COUSIN.EXC
+END

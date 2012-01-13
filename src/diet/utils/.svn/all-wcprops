@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dietsourcecode/!svn/ver/310/src/diet/utils
+END
+POSTagRegexTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dietsourcecode/!svn/ver/280/src/diet/utils/POSTagRegexTester.java
+END
+AckMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/220/src/diet/utils/AckMarker.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dietsourcecode/!svn/ver/194/src/diet/utils/Dictionary.java
+END
+FilenameToolkit.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/FilenameToolkit.java
+END
+POSTagRegex.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dietsourcecode/!svn/ver/211/src/diet/utils/POSTagRegex.java
+END
+VectorToolkit.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dietsourcecode/!svn/ver/301/src/diet/utils/VectorToolkit.java
+END
+RegexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dietsourcecode/!svn/ver/224/src/diet/utils/RegexTest.java
+END
+StringOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dietsourcecode/!svn/ver/310/src/diet/utils/StringOperations.java
+END
+EnumerationToolkit.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/EnumerationToolkit.java
+END
+POSTagRegexTestHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/dietsourcecode/!svn/ver/280/src/diet/utils/POSTagRegexTestHarness.java
+END

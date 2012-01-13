@@ -1,0 +1,49 @@
+10
+
+dir
+310
+https://dietsourcecode.svn.sourceforge.net/svnroot/dietsourcecode/src/diet/textmanipulationmodules
+https://dietsourcecode.svn.sourceforge.net/svnroot/dietsourcecode
+
+
+
+2011-09-12T04:21:12.335042Z
+285
+gregorymills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67755398-4352-43a3-9de8-9ac93d4a5347
+
+mazegame_location_description_detection
+dir
+
+TypoGenerator
+dir
+
+CyclicRandomTextGenerators
+dir
+
+SplitUtterance
+dir
+
+SynonymDetector
+dir
+
+AcknowledmentDegrader
+dir
+
+CRDetector
+dir
+

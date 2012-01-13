@@ -1,0 +1,7 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+sntahoeus|snth|Default|0|345|345|8|snth|hey|, aoeu|OK|0|0|0|0|0|
+sntahoeus|snth|NOTRELAYED|0|345|345|8|snth|hey||OK|0|0|0|0|0|
+sntahoeus|snth|Default|1917|2757|840|7|snth|great.|, aoeu|OK|0|0|0|0|0|
+sntahoeus|snth|NOTRELAYED|1917|2757|840|7|snth|great.||OK|0|0|0|0|0|
+aoesunth|aoeu|Default|5216|14248|9032|3|aoeu|that's cool.But why != true?|, snth|OK|1|1|0|1|0|
+aoesunth|aoeu|NOTRELAYED|5216|14248|9032|3|aoeu|that's cool.But why != true?||OK|0|0|0|0|0|

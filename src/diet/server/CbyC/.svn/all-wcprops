@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/server/CbyC
+END
+FloorHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/server/CbyC/FloorHolder.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dietsourcecode/!svn/ver/102/src/diet/server/CbyC/State.java
+END
+CBYCSTATE.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/102/src/diet/server/CbyC/CBYCSTATE.java
+END
+DocReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/CbyC/DocReplace.java
+END
+FloorHolderCRProcessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/dietsourcecode/!svn/ver/274/src/diet/server/CbyC/FloorHolderCRProcessing.java
+END
+DocCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/103/src/diet/server/CbyC/DocCursor.java
+END
+DocInsertHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dietsourcecode/!svn/ver/60/src/diet/server/CbyC/DocInsertHeader.java
+END
+DocRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/CbyC/DocRemove.java
+END
+FloorHolderAdvanced.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/dietsourcecode/!svn/ver/274/src/diet/server/CbyC/FloorHolderAdvanced.java
+END
+CbyCStyledDocumentStyleSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/CbyC/CbyCStyledDocumentStyleSettings.java
+END
+DocInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/CbyC/DocInsert.java
+END
+DocChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/193/src/diet/server/CbyC/DocChange.java
+END
+Sequences.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/server/CbyC/Sequences.java
+END
+FIFOBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/server/CbyC/FIFOBuffer.java
+END

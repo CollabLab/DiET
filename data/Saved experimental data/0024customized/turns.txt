@@ -1,0 +1,19 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+aoeusnth|aoeu|Default|0|857|857|4|aoeu|hey.|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|0|857|857|4|aoeu|hey.||OK|0|0|0|0|0|
+snthaoeu|snth|Default|3744|6442|2698|7|snth|what are you up to?|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|3744|6442|2698|7|snth|what are you up to?||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|2190|17366|15176|0|aoeu|not much.  You?|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|2190|17366|15176|0|aoeu|not much.  You?||OK|0|0|0|0|0|
+snthaoeu|snth|Default|27750|35299|7549|0|snth|what?|, aoeu|OK|0|0|0|0|0|
+snthaoeu|snth|NOTRELAYED|27750|35299|7549|0|snth|what?||OK|0|0|0|0|0|
+snthaoeu|snth|Default|39141|48533|9392|1|snth|what? Really?|, aoeu|OK|1|1|0|1|0|
+snthaoeu|snth|NOTRELAYED|39141|48533|9392|1|snth|what? Really?||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|22096|56186|34090|0|aoeu|yup.|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|22096|56186|34090|0|aoeu|yup.||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|57995|58759|764|1|aoeu|?|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|57995|58759|764|1|aoeu|?||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|59986|61864|1878|6|aoeu|are you sure?|, snth|OK|0|0|0|0|0|
+aoeusnth|aoeu|NOTRELAYED|59986|61864|1878|6|aoeu|are you sure?||OK|0|0|0|0|0|
+aoeusnth|aoeu|Default|62749|64573|1824|3|aoeu|yes!!.|, snth|OK|1|1|0|1|0|
+aoeusnth|aoeu|NOTRELAYED|62749|64573|1824|3|aoeu|yes!!.||OK|0|0|0|0|0|

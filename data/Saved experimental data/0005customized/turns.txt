@@ -1,0 +1,3 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+sntahoeue|snth|Default|0|328|328|27|snth|bwahahaha|, aoeu|OK|0|0|0|0|0|
+sntahoeue|snth|NOTRELAYED|0|328|328|27|snth|bwahahaha||OK|0|0|0|0|0|

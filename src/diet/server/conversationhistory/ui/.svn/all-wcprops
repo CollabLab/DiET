@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui
+END
+JConversationFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JConversationFrame.java
+END
+JConversationParseTreesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JConversationParseTreesPanel.java
+END
+JLexiconTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JLexiconTableModel.java
+END
+JDiETTableRowFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JDiETTableRowFilter.java
+END
+JDiETTableSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JDiETTableSorter.java
+END
+JTurnsHorizontalTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JTurnsHorizontalTable.java
+END
+JContiguousTurnsListTableOLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JContiguousTurnsListTableOLD.java
+END
+JContiguousTurnsListTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JContiguousTurnsListTable.java
+END
+JTurnsListTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JTurnsListTableModel.java
+END
+JClientChattoolDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JClientChattoolDisplay.java
+END
+JPermissionsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JPermissionsTableModel.java
+END
+JLexiconTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JLexiconTable.java
+END
+JPermissionsTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JPermissionsTableCellRenderer.java
+END
+JTurnsHorizontalTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JTurnsHorizontalTableModel.java
+END
+JContiguousTurnsListTableModelOLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JContiguousTurnsListTableModelOLD.java
+END
+JTurnsListTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JTurnsListTable.java
+END
+JContiguousTurnsListTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JContiguousTurnsListTableModel.java
+END
+JPermissionsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JPermissionsTable.java
+END
+JLabelKeyPressReplayTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/dietsourcecode/!svn/ver/4/src/diet/server/conversationhistory/ui/JLabelKeyPressReplayTimer.java
+END
+JConversationParseTreesFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JConversationParseTreesFrame.java
+END
+JTurnsHorizontalTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/server/conversationhistory/ui/JTurnsHorizontalTableCellRenderer.java
+END

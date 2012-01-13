@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dietsourcecode/!svn/ver/308/src/diet/client
+END
+CBYCDocumentMeso.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dietsourcecode/!svn/ver/237/src/diet/client/CBYCDocumentMeso.java
+END
+JTextPaneCBYC.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dietsourcecode/!svn/ver/84/src/diet/client/JTextPaneCBYC.java
+END
+JChatFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrame.java
+END
+StyledDocumentStyleSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/StyledDocumentStyleSettings.java
+END
+JTextAreaOneTurnAtATime.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/client/JTextAreaOneTurnAtATime.java
+END
+JChatFrameSingleWindowCBYCWithEnforcedTurntaking.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/client/JChatFrameSingleWindowCBYCWithEnforcedTurntaking.java
+END
+WebpageAndImageDisplayComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/dietsourcecode/!svn/ver/299/src/diet/client/WebpageAndImageDisplayComponent.java
+END
+JChatFrameSingleWindowWYSIWYGWithEnforcedTurntaking.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrameSingleWindowWYSIWYGWithEnforcedTurntaking.java
+END
+JChatFrameMultipleWindowsWithSendButtonOneTurnAtATime.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrameMultipleWindowsWithSendButtonOneTurnAtATime.java
+END
+DebugThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/dietsourcecode/!svn/ver/285/src/diet/client/DebugThread.java
+END
+ClientEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/ClientEventHandler.java
+END
+JChatFrameSinglewindowDEPRECATED.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/client/JChatFrameSinglewindowDEPRECATED.java
+END
+JChatFrameMultipleWindowsWithSendButtonWidthByHeightDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrameMultipleWindowsWithSendButtonWidthByHeightDocument.java
+END
+JChatFrameMultipleWindowsWithSendButtonWidthByHeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrameMultipleWindowsWithSendButtonWidthByHeight.java
+END
+JChatFrameSingleWindowWYSIWYGDeprecated.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrameSingleWindowWYSIWYGDeprecated.java
+END
+JChatFrameDualwindowDEPRECATED.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/client/JChatFrameDualwindowDEPRECATED.java
+END
+WebpageAndImageDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/dietsourcecode/!svn/ver/299/src/diet/client/WebpageAndImageDisplay.java
+END
+CBYCDocumentWithEnforcedTurntaking.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/294/src/diet/client/CBYCDocumentWithEnforcedTurntaking.java
+END
+ConnectionToServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/308/src/diet/client/ConnectionToServer.java
+END
+WYSIWYGDocumentWithEnforcedTurntaking.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/WYSIWYGDocumentWithEnforcedTurntaking.java
+END
+JChatFrameSingleWindowCBYCKeypressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/116/src/diet/client/JChatFrameSingleWindowCBYCKeypressListener.java
+END
+StyleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dietsourcecode/!svn/ver/296/src/diet/client/StyleManager.java
+END
+JChatFrameMultipleWindowsWithSendButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/303/src/diet/client/JChatFrameMultipleWindowsWithSendButton.java
+END
+JOptionPaneTimeOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dietsourcecode/!svn/ver/266/src/diet/client/JOptionPaneTimeOut.java
+END
+JChatFrameMultipleWindowsWYSIWYG.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/client/JChatFrameMultipleWindowsWYSIWYG.java
+END

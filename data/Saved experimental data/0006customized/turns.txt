@@ -1,0 +1,3 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+ntaheusneta|theudi|Default|0|424|424|21|theudi|bwahahaha|, snatoheu|OK|0|0|0|0|0|
+ntaheusneta|theudi|NOTRELAYED|0|424|424|21|theudi|bwahahaha||OK|0|0|0|0|0|

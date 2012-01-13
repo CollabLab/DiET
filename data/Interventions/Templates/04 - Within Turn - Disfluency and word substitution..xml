@@ -1,0 +1,16 @@
+STRING|Experiment ID|Character-by-character chat interface. This intervention identifies nouns, precedes them with a disfluency (word-search) followed by a hypernym which is subsequently deleted and replaced with the original noun.|WithinTurnDisfluency&Replace|WYSIWYGDisfluency&Replace|
+STRINGFIXED|Conversation Controller|Pre-installed intervention templates. There are some interdependencies that place restrictions on the values of other parameters.|CCWITHINTURNINTERCEPTUHHREPLACE|null|No intervention|Split Utterance with parse|Frag CR of nouns|WYSIWYG Disfluency|WYSIWYG Intercept & Disfluency|
+INT|Number of participants per conversation|Determines when an experiment can proceed and also determines how many chat windows to display when run locally|2|2|
+STRINGFIXED|Chat tool interface|The different kinds of chat tool.  "Formulate revise then send" is the default, tpyical of most messenger apps. It allows single and multiple windows. WYSIWYG Simplex single window displays turns character-by-character and strictly enforces turn-taking.  WYSIWYG Duplex multiple windows displays turns character-by-character with each participant's contributions placed in separate windows. It is similar to UNIX chat|WYSIWYG Simplex single window|null|Formulate revise then send. Single or multiple windows|WYSIWYG Simplex single window|WYSIWYG Duplex multiple windows|
+INT|Number of windows per chat tool||1|1|
+STRINGFIXED|Window numbering policy|This determines which window each participant sees their own and each other's contributions|ONEWINDOWENABLED|null|ONEWINDOWENABLED|ONEWINDOWDISABLED|EACHOWNWINDOWATTOPENABLED|EACHOWNWINDOWATTOPDISABLED|EACHOWNWINDOWRANDOMENABLED|EACHOWNWINDOWRANDOMDISABLED|
+STRINGFIXED|Horizontal or vertical alignment of multiple windows||Vertical|null|Horizontal|Vertical|
+INT|Number of rows in chat window||15|15|
+INT|Number of rows in chat text entry area||2|2|
+INT|Number of columns in chat window||30|30|
+STRINGFIXED|Display parse tree||no|no|yes|no|
+INT|Parser Timeout||1000|500|
+INT|Parser Max Length (chars)||70|70|
+STRINGFIXED|Transcript parser enabled||Enabled|null|Enabled|Disabled|
+INT|Transcript parser timeout||500|500|
+INT|Typing status timeout (msecs)||1000|1000|

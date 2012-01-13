@@ -1,0 +1,24 @@
+STRING|Experiment ID|Experimental interface|CBYC|WYSIWYGDisfluency&Replace|
+STRINGFIXED|Conversation Controller|Pre-installed intervention templates. There are some interdependencies that place restrictions on the values of other parameters.|CCCBYCSplitUtterance|null|No intervention|Split Utterance with parse|Frag CR of nouns|WYSIWYG Disfluency|WYSIWYG Intercept & Disfluency|
+INT|Number of participants per conversation|Determines when an experiment can proceed and also determines how many chat windows to display when run locally|4|2|
+STRINGFIXED|Chat tool interface|The different kinds of chat tool.  "Formulate revise then send" is the default, tpyical of most messenger apps. It allows single and multiple windows. WYSIWYG Simplex single window displays turns character-by-character and strictly enforces turn-taking.  WYSIWYG Duplex multiple windows displays turns character-by-character with each participant's contributions placed in separate windows. It is similar to UNIX chat|CBYC|null|Formulate revise then send. Single or multiple windows|WYSIWYG Simplex single window|WYSIWYG Duplex multiple windows|
+INT|Number of windows per chat tool||1|1|
+STRINGFIXED|Window numbering policy|This determines which window each participant sees their own and each other's contributions|ONEWINDOWENABLED|null|ONEWINDOWENABLED|ONEWINDOWDISABLED|EACHOWNWINDOWATTOPENABLED|EACHOWNWINDOWATTOPDISABLED|EACHOWNWINDOWRANDOMENABLED|EACHOWNWINDOWRANDOMDISABLED|
+STRINGFIXED|Horizontal or vertical alignment of multiple windows||Vertical|null|Horizontal|Vertical|
+INT|Number of rows in chat window||300|15|
+INT|Number of rows in chat text entry area||2|2|
+INT|Number of columns in chat window||200|30|
+STRINGFIXED|Display parse tree||no|no|yes|no|
+INT|Parser Timeout||1000|500|
+INT|Parser Max Length (chars)||70|70|
+STRINGFIXED|Transcript parser enabled||DISABLED|null|Enabled|Disabled|
+INT|Transcript parser timeout||500|500|
+INT|Typing status timeout (msecs)||1000|1000|
+STRINGFIXED|Deletes permitted||Not permitted|null|Permitted|Not permitted|
+STRINGFIXED|Background colour||Black|null|Black|White|
+STRINGFIXED|Text colour self||WHITE|null|Black|White|
+STRINGFIXED|Text colour other 1||Yellow|null|Yellow|Yellow|
+STRINGFIXED|Text colour other 2||Magenta|null|Magenta|Magenta|
+STRINGFIXED|Text colour other 3||Green|null|Green|Green|
+STRINGFIXED|Text colour other 4||CYAN|null|CYAN|CYAN|
+STRINGFIXED|Text colour other 5||Orange|null|Orange|Orange|

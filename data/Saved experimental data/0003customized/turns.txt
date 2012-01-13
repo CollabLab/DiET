@@ -1,0 +1,13 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+abcdef|aoeu3|Default|0|656|656|6|aoeu3|aoeu|, aoeuoeu|OK|0|0|0|0|0|
+abcdef|aoeu3|NOTRELAYED|0|656|656|6|aoeu3|aoeu||OK|0|0|0|0|0|
+stheuo|aoeuoeu|Default|2449|4072|1623|5|aoeuoeu|ok great.|, aoeu3|OK|0|0|0|0|0|
+stheuo|aoeuoeu|NOTRELAYED|2449|4072|1623|5|aoeuoeu|ok great.||OK|0|0|0|0|0|
+stheuo|aoeuoeu|Default|4858|6370|1512|7|aoeuoeu|how exciting|, aoeu3|OK|0|0|0|0|0|
+stheuo|aoeuoeu|NOTRELAYED|4858|6370|1512|7|aoeuoeu|how exciting||OK|0|0|0|0|0|
+abcdef|aoeu3|Default|1288|12339|11051|1|aoeu3|are you sure?|, aoeuoeu|OK|0|0|0|0|0|
+abcdef|aoeu3|NOTRELAYED|1288|12339|11051|1|aoeu3|are you sure?||OK|0|0|0|0|0|
+stheuo|aoeuoeu|Default|7025|17436|10411|1|aoeuoeu|pretty sure|, aoeu3|OK|1|1|0|1|0|
+stheuo|aoeuoeu|NOTRELAYED|7025|17436|10411|1|aoeuoeu|pretty sure||OK|0|0|0|0|0|
+stheuo|aoeuoeu|Default|19379|20163|784|5|aoeuoeu|woo!|, aoeu3|OK|0|0|0|0|0|
+stheuo|aoeuoeu|NOTRELAYED|19379|20163|784|5|aoeuoeu|woo!||OK|0|0|0|0|0|

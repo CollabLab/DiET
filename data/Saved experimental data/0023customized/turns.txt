@@ -1,0 +1,9 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+snthaoeu|stnh|Default|0|2456|2456|2|stnh|hello|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|0|2456|2456|2|stnh|hello||OK|0|0|0|0|0|
+snthaoeu|stnh|Default|6827|22243|15416|5|stnh|ok, great so it seems ilke snthi shows up right away, but then gets sent. righT?|, aoeu|OK|0|0|0|0|0|
+snthaoeu|stnh|NOTRELAYED|6827|22243|15416|5|stnh|ok, great so it seems ilke snthi shows up right away, but then gets sent. righT?||OK|0|0|0|0|0|
+aoesunth|aoeu|Default|107601|110881|3280|5|aoeu|ok, so that's nice.|, stnh|OK|0|0|0|0|0|
+aoesunth|aoeu|NOTRELAYED|107601|110881|3280|5|aoeu|ok, so that's nice.||OK|0|0|0|0|0|
+aoesunth|aoeu|Default|119799|120583|784|5|aoeu|yes.|, stnh|OK|0|0|0|0|0|
+aoesunth|aoeu|NOTRELAYED|119799|120583|784|5|aoeu|yes.||OK|0|0|0|0|0|

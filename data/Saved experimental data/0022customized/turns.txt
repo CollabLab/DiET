@@ -1,0 +1,27 @@
+ParticipantID|Sender|Type|Onset|Enter|Typingti|Speed|AppOrig.|Text|Recipients|Blocked|KDels|DDels|DIns|DDels*N|DIns*N|TaggedText
+aoeusnth|Abcd|Default|0|9975|9975|1|Abcd|that's so cool. |, Efgh|OK|2|2|0|2|0|
+aoeusnth|Abcd|NOTRELAYED|0|9975|9975|1|Abcd|that's so cool. ||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|123786|145578|21792|1|Abcd|hey, how's it going???|, Efgh|OK|10|10|0|10|0|
+aoeusnth|Abcd|NOTRELAYED|123786|145578|21792|1|Abcd|hey, how's it going???||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|151201|159729|8528|2|Abcd|the workshop thing is bad|, Efgh|OK|7|7|0|7|0|
+aoeusnth|Abcd|NOTRELAYED|151201|159729|8528|2|Abcd|the workshop thing is bad||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|160807|161855|1048|6|Abcd|baddddd|, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|160807|161855|1048|6|Abcd|baddddd||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|171583|172991|1408|0|Abcd||, Efgh|OK|1|1|0|1|0|
+aoeusnth|Abcd|NOTRELAYED|171583|172991|1408|0|Abcd|||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|180902|182470|1568|4|Abcd|hehehe |, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|180902|182470|1568|4|Abcd|hehehe ||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|187981|189189|1208|5|Abcd|really/|, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|187981|189189|1208|5|Abcd|really/||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|190136|196305|6169|5|Abcd|really, is that what you're doing?|, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|190136|196305|6169|5|Abcd|really, is that what you're doing?||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|202871|206829|3958|2|Abcd|that's cool|, Efgh|OK|4|4|0|4|0|
+aoeusnth|Abcd|NOTRELAYED|202871|206829|3958|2|Abcd|that's cool||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|249642|261785|12143|3|Abcd|i should show you the paper from Karrie (|, Efgh|OK|11|10|0|10|0|
+aoeusnth|Abcd|NOTRELAYED|249642|261785|12143|3|Abcd|i should show you the paper from Karrie (||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|296956|299468|2512|0|Abcd||, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|296956|299468|2512|0|Abcd|||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|306505|528132182|527825677|0|Abcd|aoeueonethue|, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|306505|528132182|527825677|0|Abcd|aoeueonethue||OK|0|0|0|0|0|
+aoeusnth|Abcd|Default|528219893|528220372|479|8|Abcd|stnh|, Efgh|OK|0|0|0|0|0|
+aoeusnth|Abcd|NOTRELAYED|528219893|528220372|479|8|Abcd|stnh||OK|0|0|0|0|0|

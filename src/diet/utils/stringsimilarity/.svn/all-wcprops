@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/stringsimilarity
+END
+StringSimilarityMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/utils/stringsimilarity/StringSimilarityMeasure.java
+END
+SimilarityMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dietsourcecode/!svn/ver/113/src/diet/utils/stringsimilarity/SimilarityMeasure.java
+END
+SyntacticSimilarityMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/113/src/diet/utils/stringsimilarity/SyntacticSimilarityMeasure.java
+END

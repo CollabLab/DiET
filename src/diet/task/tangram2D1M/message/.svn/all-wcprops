@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message
+END
+MessageNewTangramsMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageNewTangramsMatcher.java
+END
+MessageEndOfCurTangramSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageEndOfCurTangramSet.java
+END
+MessageNextTangramPlaced.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageNextTangramPlaced.java
+END
+MessageTangramRevealed.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageTangramRevealed.java
+END
+MessageNewTangramsDirectorA.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageNewTangramsDirectorA.java
+END
+MessageNewTangramsDirectorB.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageNewTangramsDirectorB.java
+END
+MessageEndOfGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageEndOfGame.java
+END
+MessageNewTangrams.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageNewTangrams.java
+END
+MessageStartGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/dietsourcecode/!svn/ver/182/src/diet/task/tangram2D1M/message/MessageStartGame.java
+END

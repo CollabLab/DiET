@@ -1,0 +1,18 @@
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:55)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:55)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:55)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:55)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:55)
+	at diet.server.Conversation.run(Conversation.java:339)
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at diet.server.ConversationController.CCCUSTOM1.processChatText(CCCUSTOM1.java:55)
+	at diet.server.Conversation.run(Conversation.java:339)
