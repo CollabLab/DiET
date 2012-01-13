@@ -1,1 +1,0 @@
-java -Xms512m -Xmx1200m -jar "diet.jar" server 20000

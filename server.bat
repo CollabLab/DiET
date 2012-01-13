@@ -1,1 +1,0 @@
-java -Xms512m -Xmx1024m       -cp .\dist\chattool.jar;   diet.server.experimentmanager.EMStarter SERVER
