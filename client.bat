@@ -1,1 +1,1 @@
-java -Xms512m -Xmx1024m -jar ".\dist\chattool.jar" client localhost 20000
+java -Xms512m -Xmx1024m -jar ".\dist\chattool.jar" client collablab.northwestern.edu 20000
