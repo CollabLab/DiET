@@ -80,16 +80,17 @@ public class CCCUSTOM1 extends DefaultConversationController{
            
            // get rid of asterisks around *emphasized* words
            //mct.setText(mct.getText().replaceAll("(\\*)([a-z]+)(\\*)", mct.getText().split("(\\*)([a-z]+)(\\*)")[1]));
-           mct.setText(mct.getText().replaceAll("(\\*)([a-z]+)(\\*)", "$2"));
+           mct.setText(mct.getText().replaceAll("(\\*)([a-zA-Z]+)(\\*)", "$2"));
            
            // strip "really" when not at the end of a sentence.
-           mct.setText(mct.getText().replaceAll("really\\s", ""));
+           // mct.setText(mct.getText().replaceAll("really\\s", ""));
            
            // If there are 2 caps in a row, make the whole thing lowercase
-           if(mct.getText().matches(".*[A-Z]{2,}.*"))
+           /*if(mct.getText().matches(".*[A-Z]{2,}.*"))
            {
                mct.setText(mct.getText().toLowerCase());
-           }
+           }*/
+           mct.setText(mct.getText().replaceAll("([A-Z]{2,})", "$1".toLowerCase()));
            
            /*try {
                Thread.sleep(3000);
