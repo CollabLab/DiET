@@ -86,11 +86,11 @@ public class CCCUSTOM1 extends DefaultConversationController{
            // mct.setText(mct.getText().replaceAll("really\\s", ""));
            
            // If there are 2 caps in a row, make the whole thing lowercase
-           /*if(mct.getText().matches(".*[A-Z]{2,}.*"))
+           if(mct.getText().matches(".*[A-Z]{2,}.*"))
            {
                mct.setText(mct.getText().toLowerCase());
-           }*/
-           mct.setText(mct.getText().replaceAll("([A-Z]{2,})", "$1".toLowerCase()));
+           }
+           // TODO: get this method to work. mct.setText(mct.getText().replaceAll("([A-Z]{2,})", ("$1").toLowerCase()));
            
            /*try {
                Thread.sleep(3000);
