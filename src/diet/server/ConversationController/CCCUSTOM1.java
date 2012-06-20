@@ -107,8 +107,12 @@ public class CCCUSTOM1 extends DefaultConversationController{
            c.sendLabelDisplayToAllowedParticipantsFromApparentOrigin(sender,"Status: OK",false);
           
 
-          origmct.setText(orig);
-           c.setNewTurnBeingConstructedNotRelayingOldTurnAddingOldTurnToHistory(sender, origmct);
+          if(!mct.getText().equals(orig))
+          {
+            origmct.setText(orig);
+            c.setNewTurnBeingConstructedNotRelayingOldTurnAddingOldTurnToHistory(sender, origmct);
+          }
+          
                    
     }
     
