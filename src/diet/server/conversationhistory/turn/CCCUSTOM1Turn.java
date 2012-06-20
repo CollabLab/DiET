@@ -20,7 +20,7 @@ public class CCCUSTOM1Turn extends Turn{
     public String text;
 
     public CCCUSTOM1Turn(){
-        
+
     }
 
     public CCCUSTOM1Turn(ConversationHistory cH,String type, long onset, long enter,Conversant sender, Conversant apparentSender,String text,
@@ -36,7 +36,7 @@ public class CCCUSTOM1Turn extends Turn{
     }
     @Override
     public String getIOAdditionalValues(){
-        return "|" + this.text + "|" + this.finalText;
+        return "|" + text + "|" + finalText;
     }
    
 }

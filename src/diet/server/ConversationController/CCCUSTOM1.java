@@ -65,7 +65,8 @@ public class CCCUSTOM1 extends DefaultConversationController{
                "O:-\\)", "0:-3", "0:3", "O:-\\)", "O:\\)", ">:\\)", ">;\\)", ">:-\\)",
                "o/\\o", "^5", ">_>^", "^<_<", ":-o", ":o"};*/
            
-          // String orig = mct.getText();
+          String orig = mct.getText();
+          MessageChatTextFromClient origmct = mct;
 
            for(int i = 0; i < toStrip.length; i++)
            {
@@ -102,10 +103,12 @@ public class CCCUSTOM1 extends DefaultConversationController{
                Logger.getLogger(CCCUSTOM1.class.getName()).log(Level.SEVERE, null, ex);
            }*/
     
-           c.relayTurnToAllOtherParticipants(sender,mct);
+           c.relayTurnToAllOtherParticipants(sender, mct);
            c.sendLabelDisplayToAllowedParticipantsFromApparentOrigin(sender,"Status: OK",false);
           
-           c.setNewTurnBeingConstructedNotRelayingOldTurnAddingOldTurnToHistory(sender, mct);
+
+          origmct.setText(orig);
+           c.setNewTurnBeingConstructedNotRelayingOldTurnAddingOldTurnToHistory(sender, origmct);
                    
     }
     
