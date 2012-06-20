@@ -7,6 +7,8 @@ import diet.message.MessageWYSIWYGTextSelectionFromClient;
 import diet.server.Participant;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import diet.server.conversationhistory.turn.CCCUSTOM1Turn;
+import diet.server.conversationhistory.turn.Turn;
 
 
 
@@ -63,6 +65,8 @@ public class CCCUSTOM1 extends DefaultConversationController{
                "O:-\\)", "0:-3", "0:3", "O:-\\)", "O:\\)", ">:\\)", ">;\\)", ">:-\\)",
                "o/\\o", "^5", ">_>^", "^<_<", ":-o", ":o"};*/
            
+          // String orig = mct.getText();
+
            for(int i = 0; i < toStrip.length; i++)
            {
             // mct.setText(mct.getText().replace(toStrip[i], ""));
@@ -129,11 +133,11 @@ public class CCCUSTOM1 extends DefaultConversationController{
         //c.relayWYSIWYGSelectionChangedToAllowedParticipants(sender,mWYSIWYGSel);
     }
     
+   @Override
+    public Turn getTurnTypeForIO() {
+        return new CCCUSTOM1Turn();
+    }
    
-   
-
-
-    
     
    
 

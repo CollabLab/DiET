@@ -26,6 +26,7 @@ import diet.server.conversationhistory.turn.DataToBeSaved;
 import diet.server.conversationhistory.turn.MAZEGAMETURN;
 import diet.server.conversationhistory.turn.Turn;
 import diet.server.conversationhistory.turn.TurnMazeGame;
+import diet.server.conversationhistory.turn.CCCUSTOM1Turn;
 import diet.server.io.ConversationIO;
 import diet.utils.stringsimilarity.StringSimilarityMeasure;
 import edu.stanford.nlp.trees.Tree;
