@@ -17,6 +17,7 @@ import java.util.HashMap;
 import java.util.Vector;
 
 import diet.message.Message;
+import diet.message.MessageKeypressed;
 import diet.message.MessageChatTextFromClient;
 import diet.server.Conversation;
 import diet.server.Participant;
@@ -164,6 +165,10 @@ public class ConversationIOWriting {
                 MessageChatTextFromClient m2 = (MessageChatTextFromClient)m;
                 line = line + m2.getTypingOnset() + "|"+ m2.getEndOfTyping()+ "|";
                 line = line+ m2.getText()+"|";
+            }
+            else if(m instanceof MessageKeypressed){
+                MessageKeypressed m2 = (MessageKeypressed)m;
+                line = line + m2.getKeypressed().getKeycode() + "|";
             }
             else{
                 line = line + "| |";
